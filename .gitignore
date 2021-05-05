@@ -3,3 +3,5 @@ words
 scrape_demo.ipynb
 *.csv
 ryan_acquire.py
+env.py
+wrangle_zillow.py
