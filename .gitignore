@@ -5,3 +5,4 @@ scrape_demo.ipynb
 ryan_acquire.py
 env.py
 wrangle_zillow.py
+*.png
